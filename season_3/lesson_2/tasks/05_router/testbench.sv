@@ -79,7 +79,6 @@ module testbench;
             mon2chk.get(pkt_cur);
 
             // Пишите здесь
-
             pkt_prev = pkt_cur;
         end
     end

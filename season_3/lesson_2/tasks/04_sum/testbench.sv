@@ -77,7 +77,6 @@ module testbench;
         // Используйте for()
         // Помните про ожидание фронта через @(posedge clk).
 
-
         ->> gen_done;
 
     end
