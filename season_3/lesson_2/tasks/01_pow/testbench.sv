@@ -16,7 +16,7 @@ module testbench;
 
     // TODO:
     // Определите период тактового сигнала
-    parameter CLK_PERIOD = // ?;
+    parameter CLK_PERIOD = 10;
 
     // TODO:
     // Cгенерируйте тактовый сигнал
